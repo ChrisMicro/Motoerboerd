@@ -18,7 +18,7 @@ It might be intersting to watch the frequency specturm on you PC or mobile phone
 
 ## LINKS
 
-[WebAudio Spectrum Analyser] (https://borismus.github.io/spectrogram/)
-[Spectrogram] ( https://github.com/miguelmota/spectrogram )
+* [WebAudio Spectrum Analyser](https://borismus.github.io/spectrogram/)
+* [Spectrogram]( https://github.com/miguelmota/spectrogram )
 
 
