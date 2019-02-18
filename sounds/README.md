@@ -19,3 +19,9 @@ It might be intersting to watch the frequency specturm on you PC or mobile phone
 
 * [sound instalation: Beyond the water v6](http://dorninger.servus.at/soundart/Beyond6/)
 * [sound instalation: Beyond the water v5](http://dorninger.servus.at/soundart/Beyond5/)
+
+## history
+
+There is a long history of electronic bird sound experiments. Many artists worked on this field because bird sound generation with mechanical means is very promising. In contrast to the Motorboerd which uses the motors as generators for source of energie Paul Granjon's robot birds use motors as indicators for motion. 
+
+* [Paul Granjon's robot bird forest](http://zprod.org/PG/machines/roboticBirds.htm)
